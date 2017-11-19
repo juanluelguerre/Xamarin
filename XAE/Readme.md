@@ -11,7 +11,7 @@ el almacenamiento de fotos en la nube.
 1.  La primera imagen muestra la venta de ayuda o Acerca de (About):
 
 Inline-style: 
-![alt text](assets/image1.png "About")
+![alt text](https://github.com/juanluelguerre/Xamarin/blob/develop/XAE/assets/image1.png "About")
 
 1.  La segúnda imágen es la imagen representa el navegador/explorador o
     listado de imágenes:
