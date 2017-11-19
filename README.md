@@ -1,4 +1,4 @@
-## Xamarin Code Samples
+## Xamarin Code Apps
 
 | App Name   | Description  |
 | ---------- |--------------|
