@@ -10,7 +10,8 @@ el almacenamiento de fotos en la nube.
 
 1.  La primera imagen muestra la venta de ayuda o Acerca de (About):
 
-<img src="./assets/image1.png" width="271" height="481" />
+Inline-style: 
+![alt text](assets/image1.png "About")
 
 1.  La segúnda imágen es la imagen representa el navegador/explorador o
     listado de imágenes:
