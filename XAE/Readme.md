@@ -10,9 +10,9 @@ el almacenamiento de fotos en la nube.
 
 1.  La primera imagen muestra la venta de ayuda o Acerca de (About):
 
-![About](assets/image1.png)
+![About](/assets/image1.png)
 
-1.  La segúnda imágen es la imagen representa el navegador/explorador o
+1.  La segúnda mágen es la imagen representa el navegador/explorador o
     listado de imágenes:
 
 ![Browse](assets/image2.png)
@@ -43,6 +43,8 @@ contenedor “xae” donde se almacenan todas las imágnes.
 Finalmente, el código de la clase principal que realiza la
 gestión del almacenamiento en Azure Storage es el siguiente:
 
+```
+
 //  
 // https://developer.xamarin.com/guides/xamarin-forms/cloud-services/storage/azure-storage/  
 //  
@@ -52,8 +54,8 @@ using System.IO;
 using System.Linq;  
 using System.Threading.Tasks;  
 using Microsoft.WindowsAzure.Storage;  
-using Microsoft.WindowsAzure.Storage.Blob;  
-  
+using Microsoft.WindowsAzure.Storage.Blob;  
+
 namespace XAE  
 {  
     public class CloudStorageService : IDataStore&lt;Item&gt;  
@@ -249,3 +251,5 @@ namespace XAE
         }  
     }  
 }
+
+```
