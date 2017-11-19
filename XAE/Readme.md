@@ -10,35 +10,35 @@ el almacenamiento de fotos en la nube.
 
 1.  La primera imagen muestra la venta de ayuda o Acerca de (About):
 
-![About](/assets/image1.png)
+![About](/XAE/assets/Image1.png)
 
 1.  La segúnda mágen es la imagen representa el navegador/explorador o
     listado de imágenes:
 
-![Browse](assets/image2.png)
+![Browse](/XAE/assets/Image2.png)
 
 2.  La siguiente muetra la adicion de nuevas imágenes, previa selección de
     la acción “Add” situada en la barra de menu superior.
  
-![New Item](assets/image3.png)
+![New Item](/XAE/assets/Image3.png)
 
 1.  La siguiente, representa a la misma ventana/pantalla en la que
     el usuario acaba de seleccionar una imagen de la galería de imágenes
     del dispositivo a través de la opción “Browse”
 
-![New Item Selected](assets/image4.png)
+![New Item Selected](/XAE/assets/Image4.png)
 
 1.  La siguiente pantalla representa el detalle de una imagén
     previamente seleccionada. En la barra de menu superior puede
     apreciarse el botón “Delete” a través del cual el usuario podrá
     eliminar dicha imagen.
 
-![Image Detail](assets/image5.png)
+![Image Detail](/XAE/assets/Image5.png)
 
 A continuación el portal de azure con la cuenta de Azure Storage y el
 contenedor “xae” donde se almacenan todas las imágnes.
 
-![Azure Storage](assets/image6.png)
+![Azure Storage](/XAE/assets/Image6.png)
 
 Finalmente, el código de la clase principal que realiza la
 gestión del almacenamiento en Azure Storage es el siguiente:
