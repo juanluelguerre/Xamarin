@@ -4,4 +4,3 @@
 | ---------- |--------------|
 | XAE        | Simple Xamarin Azure Explorer |
 |...         | ... |
-
